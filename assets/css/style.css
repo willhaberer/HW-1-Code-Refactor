@@ -42,6 +42,12 @@ a {
     text-decoration: none;
 }
 
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .meeting-picture {
     height: 800px;
     width: 100%;
@@ -49,12 +55,6 @@ a {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .float-left {
